@@ -1,0 +1,13 @@
+--- !Monster
+name: Amon Ra
+info: [[moc_pryd06, 60, 70],
+       [test, 20, 20]
+      ]
+
+--- !Monster
+name: Assassin Cross Eremes
+info: [[lhz_dun03, 100, 130]]
+
+--- !Monster
+name: Ygnizem
+info: [[lhz_dun02, 120, 130]]
